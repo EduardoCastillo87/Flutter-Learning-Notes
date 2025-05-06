@@ -1,7 +1,7 @@
 # 📘 Flutter Learning Notes
 
 This is my personal collection of notes, summaries, and examples while learning Flutter and Dart.  
-I created this repo to keep everything organized and maybe help others who are also getting started. 🚀
+I created this repo to keep everything organized and maybe help others who are also getting started. 
 
 ---
 
